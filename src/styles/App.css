@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: rgb(159, 156, 156);
+
+}
+table thead {
+      background:#676768;
+      color:white;
+
+  }
+
